@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp1", "NodejsWebApp1\NodejsWebApp1.njsproj", "{6BF37BB8-4DC1-4C40-9892-DF29F4C07046}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26692CD2-AD3A-4A60-B91D-63C94981CF3D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\YouTube_full-color_icon_(2017).svg = ..\..\..\Downloads\YouTube_full-color_icon_(2017).svg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF37BB8-4DC1-4C40-9892-DF29F4C07046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF37BB8-4DC1-4C40-9892-DF29F4C07046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF37BB8-4DC1-4C40-9892-DF29F4C07046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF37BB8-4DC1-4C40-9892-DF29F4C07046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC73E10D-4BCD-483A-BC19-7FDCFA59C806}
+	EndGlobalSection
+EndGlobal
